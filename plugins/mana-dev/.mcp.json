@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mana": {
+      "type": "http",
+      "url": "https://mcp.mana-dev.scalarmind.com"
+    }
+  }
+}

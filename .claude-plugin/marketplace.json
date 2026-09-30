@@ -1,0 +1,23 @@
+{
+  "name": "mana-plugins",
+  "owner": {
+    "name": "Mana"
+  },
+  "metadata": {
+    "description": "The Mana plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "mana",
+      "source": "./plugins/mana",
+      "description": "The Mana knowledge store: the storing rules at session start, a storing checkpoint before a stop, and the Mana skills.",
+      "version": "1.0.0-0289872b9861"
+    },
+    {
+      "name": "mana-dev",
+      "source": "./plugins/mana-dev",
+      "description": "The Mana development store: the storing rules at session start, a storing checkpoint before a stop, and the Mana skills.",
+      "version": "1.0.0-46bb0ee7a054"
+    }
+  ]
+}

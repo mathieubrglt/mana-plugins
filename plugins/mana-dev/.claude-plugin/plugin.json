@@ -1,0 +1,13 @@
+{
+  "name": "mana-dev",
+  "version": "1.0.0-46bb0ee7a054",
+  "description": "The Mana development store: the storing rules at session start, a storing checkpoint before a stop, and the Mana skills.",
+  "author": {
+    "name": "Mana"
+  },
+  "keywords": [
+    "memory",
+    "knowledge",
+    "mcp"
+  ]
+}
